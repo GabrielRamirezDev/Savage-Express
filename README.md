@@ -1,7 +1,7 @@
 # Savage Express
 
 ## About The Project
-![screenshot](portfolio image link here)
+![screenshot](https://www.gabe-dev.com/images/savageExpress.png)
 
  21 Savage fan site Express js version
 
